@@ -1,8 +1,10 @@
 import { Component } from 'react';
+
 import FeedbackActions from './FeedbackActions/FeedbackActions';
 import FeedbackStats from './FeedbackStats/FeedbackStats';
 import SectionTitle from './Section/SectionTitle';
 import Notification from './Notification/Notification';
+
 import s  from './feedback.module.css';
 
 class App extends Component {
